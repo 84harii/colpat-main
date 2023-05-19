@@ -17,14 +17,14 @@ export default function Dashboard() {
   return (
     <div className="flex w-full justify-center">
       <Head>
-        <title>ColPat Dashboard : Color Palette & Design Tool</title>
+        <title>Coolerss Dashboard : Color Palette & Design Tool</title>
         <meta
           name="description"
-          content="ColPat is the ultimate color palette generator with awesome tools. ColPat's AI, user-friendly interface, and customization options make it easy to find the perfect colors. Unleash your creativity and elevate your designs with ColPat!"
+          content="Coolerss is the ultimate color palette generator with awesome tools. Coolerss's AI, user-friendly interface, and customization options make it easy to find the perfect colors. Unleash your creativity and elevate your designs with Coolerss!"
         />
         <meta
           name="keywords"
-          content="ColPat, Color Palette, Gradient, Shade Generator, Color Shade, Tailwind"
+          content="Coolerss, Color Palette, Gradient, Shade Generator, Color Shade, Tailwind"
         />
       </Head>
       <main className="w-full max-w-5xl flex flex-wrap gap-10 justify-center">

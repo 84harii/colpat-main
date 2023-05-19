@@ -33,37 +33,37 @@ export default function Pfi() {
   return (
     <div className="flex justify-center">
       <Head>
-        <title>ColPat : Palette from Image [AI]</title>
-        <meta name="title" content="ColPat : Palette from Image [AI]" />
+        <title>Coolerss : Palette from Image [AI]</title>
+        <meta name="title" content="Coolerss : Palette from Image [AI]" />
         <meta
           name="description"
-          content="ColPat's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
+          content="Coolerss's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://colpat.itsvg.in/pfi" />
-        <meta property="og:title" content="ColPat : Palette from Image [AI]" />
+        <meta property="og:url" content="https://Coolerss.itsvg.in/pfi" />
+        <meta property="og:title" content="Coolerss : Palette from Image [AI]" />
         <meta
           property="og:description"
-          content="ColPat's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
+          content="Coolerss's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
         />
         <meta
           property="og:image"
-          content="https://colpat.itsvg.in/assets/5.png"
+          content="https://Coolerss.itsvg.in/assets/5.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://colpat.itsvg.in/pfi" />
+        <meta property="twitter:url" content="https://Coolerss.itsvg.in/pfi" />
         <meta
           property="twitter:title"
-          content="ColPat : Palette from Image [AI]"
+          content="Coolerss : Palette from Image [AI]"
         />
         <meta
           property="twitter:description"
-          content="ColPat's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
+          content="Coolerss's Palette from Image [AI] feature allows you to generate a color palette from an image or logo. This feature uses artificial intelligence to analyze the colors in the image and create a palette that complements it. This feature is particularly useful for branding projects or when you need to match colors from an existing design."
         />
         <meta
           property="twitter:image"
-          content="https://colpat.itsvg.in/assets/5.png"
+          content="https://Coolerss.itsvg.in/assets/5.png"
         />
       </Head>
       {img ? (
