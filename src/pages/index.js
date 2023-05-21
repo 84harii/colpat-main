@@ -5,7 +5,7 @@ import Head from "next/head";
 
 export default function Home() {
   const config = {
-    color: "#f8d593",
+    color: "#194745",
     idleAnimation: true,
     idleAnimationCount: 10,
     inverted: false,
