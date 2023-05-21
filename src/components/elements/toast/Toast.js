@@ -21,7 +21,7 @@ export default function Toast() {
 export function codeCopiedToast() {
   toast.success("Code Copied!", {
     position: "top-right",
-    autoClose: 5000,
+    autoClose: 4000,
     hideProgressBar: false,
     closeOnClick: true,
     pauseOnHover: true,
