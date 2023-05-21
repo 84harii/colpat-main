@@ -2,13 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-/* importing Poppins font */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+/* importing Syne font */
+@font-face {
+  font-family: "Syne";
+  src: url(./Syne-VariableFont_wght.ttf);
+}
 
 /* assigning font to overall html */
 
 html {
-  font-family: "Poppins", sans-serif;
+  font-family: "Syne";
   background: #000000;
   color: #e5e5e5;
   background-image: url("/bg.svg");

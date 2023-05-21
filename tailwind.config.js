@@ -10,7 +10,7 @@ module.exports = {
         "grey": "#26221D",
         "tint":{
           "yellow": "#B9C2B6",
-          "emerald": "#B0D2C2",
+          "emerald": "#ecfccb",
           "fuchsia": "#BBB7C1",
           "green": "#8CD3AE",
           "red": "#FEC2B2",
